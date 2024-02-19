@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: SIQAGIT19febProject
+  gitServerName: siqagituser
+  gitUrl: https://github.com/siqagituser/SIQAGIT19febProject
+  gitUsername: siqagituser
+  gitBranch: main
